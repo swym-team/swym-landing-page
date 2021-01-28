@@ -16,11 +16,11 @@ const IndexPage = () => (
     <div className={"page-header home"}>
       <h1>Spend Within Your Means</h1>
       <p>
-        SWYM gives your complex the opportunity to increase the percentage of
-        happiness
+        "SWYM gives your complex the opportunity to increase the percentage of
+        happiness"
         <br />
-        and enjoyment of your staff and as a result, bring productivity to your
-        workspace.
+      "  and enjoyment of your staff and as a result, bring productivity to your
+        workspace."
       </p>
 
   
